@@ -1,0 +1,61 @@
+{
+  "title": "Qual profissão de TI combina mais com você? ",
+  "questions": [
+    {
+      "id": 1,
+      "question": "O que mais te atrai na tecnologia?",
+      "options": [
+        { "id": 1, "name": "Criar softwares e resolver problemas", "alias": "A" },
+        { "id": 2, "name": "Proteger sistemas e combater hackers", "alias": "B" },
+        { "id": 3, "name": "Analisar dados e encontrar padrões", "alias": "C" },
+        { "id": 4, "name": "Projetar interfaces bonitas e intuitivas", "alias": "D" }
+      ]
+    },
+    {
+      "id": 2,
+      "question": "Qual dessas tarefas parece mais interessante?",
+      "options": [
+        { "id": 1, "name": "Desenvolver um novo aplicativo", "alias": "A" },
+        { "id": 2, "name": "Investigar uma vulnerabilidade de segurança", "alias": "B" },
+        { "id": 3, "name": "Criar gráficos e relatórios sobre um grande volume de dados", "alias": "C" },
+        { "id": 4, "name": "Definir o design e a experiência de um site", "alias": "D" }
+      ]
+    },
+    {
+      "id": 3,
+      "question": "Se você tivesse que escolher uma ferramenta para trabalhar todos os dias, qual seria?",
+      "options": [
+        { "id": 1, "name": "Um ambiente de desenvolvimento (IDE)", "alias": "A" },
+        { "id": 2, "name": "Um analisador de tráfego de rede", "alias": "B" },
+        { "id": 3, "name": "Uma ferramenta de visualização de dados", "alias": "C" },
+        { "id": 4, "name": "Um editor de design ou prototipagem", "alias": "D" }
+      ]
+    },
+    {
+      "id": 4,
+      "question": "O que te deixaria mais satisfeito no trabalho?",
+      "options": [
+        { "id": 1, "name": "Criar um código limpo e funcional", "alias": "A" },
+        { "id": 2, "name": "Impedir um grande ataque hacker", "alias": "B" },
+        { "id": 3, "name": "Extrair insights valiosos de dados", "alias": "C" },
+        { "id": 4, "name": "Criar uma interface que os usuários amam", "alias": "D" }
+      ]
+    },
+    {
+      "id": 5,
+      "question": "Qual desses apelidos combina mais com você?",
+      "options": [
+        { "id": 1, "name": "O Codificador", "alias": "A" },
+        { "id": 2, "name": "O Guardião Digital", "alias": "B" },
+        { "id": 3, "name": "O Analista de Dados", "alias": "C" },
+        { "id": 4, "name": "O Designer Criativo", "alias": "D" }
+      ]
+    }
+  ],
+  "results": {
+    "A": "Você tem perfil de Desenvolvedor! Criar códigos e resolver problemas é a sua praia.",
+    "B": "Você tem perfil de Especialista em Segurança da Informação! Seu foco é proteger sistemas e evitar ataques.",
+    "C": "Você tem perfil de Cientista de Dados! Adora explorar grandes volumes de dados e encontrar padrões importantes.",
+    "D": "Você tem perfil de Designer UX/UI! Criar interfaces intuitivas e bonitas é o que te motiva."
+  }
+}
