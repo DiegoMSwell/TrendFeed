@@ -1,6 +1,6 @@
 # TrendFeed - Clone do BuzzFeed
 
-TrendFeed é um aplicativo de quizzes inspirado no BuzzFeed, desenvolvido utilizando **Angular**. A plataforma permite a criação e execução de um quiz interativo, proporcionando uma experiência dinâmica e divertida para os usuários.
+TrendFeed é uma aplicação de quiz inspirado no BuzzFeed, desenvolvido utilizando **Angular**. A plataforma permite a criação e execução de um quiz interativo, proporcionando uma experiência dinâmica e divertida para os usuários.
 
 ## Tecnologias Utilizadas
 
